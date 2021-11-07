@@ -3,6 +3,6 @@
 
 ### I am Reekraj Roy, currently in my pre-final year, pursuing B.Tech in Computer Science from SMIT 🏫️. I am a competitive programmer 💻️, developer 🛠️ and cafephile ☕. Find my tech blogs ✍️ here @ [royreekraj.hashnode.dev](https://royreekraj.hashnode.dev/). You can reach me 📭 through [LinkedIn](https://www.linkedin.com/in/royreekraj/).
 
-Do check out my 📑️ [Resume](https://drive.google.com/file/d/11Tv9sw0YU_I2fPQiW1Ta9I8NG5NZdkGV/view?usp=sharing) and 🖥️ [Portfolio](https://royreekraj.netlify.app/) here.
+Do check out my 📑️ [Resume](https://drive.google.com/file/d/1HT_08tfkOK4l6V28zz1ca-kMzOrdY9fq/view) and 🖥️ [Portfolio](https://royreekraj.netlify.app/) here.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boomerspine&label=Profile%20views&color=0e75b6&style=flat" alt="boomerspine" /> </p>
